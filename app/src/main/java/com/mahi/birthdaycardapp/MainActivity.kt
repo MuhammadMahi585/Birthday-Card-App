@@ -59,7 +59,7 @@ fun GreetingText(message:String,from:String,modifier: Modifier=Modifier){
 
                 )
             }
-    }
+    }g
 @Composable
 fun GreetingImage(message: String,from: String,modifier: Modifier=Modifier){
     val image = painterResource(id = R.drawable.androidparty)
